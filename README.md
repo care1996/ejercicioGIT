@@ -1,2 +1,3 @@
 # ejercicioGIT
-descripcion para ejercicioGIT
+Leimar Pelaez
+leimarplz@gmail.com
